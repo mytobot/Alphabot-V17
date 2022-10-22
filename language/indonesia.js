@@ -1769,10 +1769,10 @@ exports.leave = () =>{
 Goodbye 😂`
 }
 exports.source = () =>{
-return`*------「 Kwokwokwowko 」 ------*
+return`*------「 Mau Sc Join 」 ------*
 
-LinkGcBotV1 : https://chat.whatsapp.com/FgWtKrL20EPIWOo82FQjBZ
-LinkGcBotV2 : https://chat.whatsapp.com/CWlUWIqVoBBIXRsmT8oGg4
+LinkGcBotV1 : https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz
+LinkGcBotV2 : https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1
 `
 }
 exports.tos = (ownernomer) => {
